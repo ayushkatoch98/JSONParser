@@ -10,4 +10,4 @@ Inside the `run.py` there is a function called `run()` that runs the parser for 
 
 
 # Tests were copied from 
-https://github.com/ayushkatoch98/pyjsonparse 
+https://github.com/akashb95/pyjsonparse
